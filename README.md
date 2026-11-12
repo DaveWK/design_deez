@@ -1,5 +1,9 @@
 # design_deez
 
+> "Dear Harry, who's responsible? Sign that, 'Affectionately, A Dissatisfied Customer.'"
+>
+> — Hawkeye Pierce, dictating his telegram to Harry S. Truman, *M\*A\*S\*H*, "Dr. Pierce and Mr. Hyde" (1973)
+
 Open, clean-room replacements for the closed parts of Synopsys DesignWare IP, so SoCs that license it can run on open
 code alone.
 
